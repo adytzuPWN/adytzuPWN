@@ -1,3 +1,2 @@
-- 👋 hello, my name is 'ady' and I am beautiful 14 years old.
-- I am more interested in pawn language, html, css.
-• ( * )
+1. 👋 hi my name is 'adytzuPWN'
+2. I am interested in PAWN, HTML, CSS languages.
